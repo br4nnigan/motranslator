@@ -42,7 +42,7 @@
         "vimeo/psalm": "^6.8"
     },
     "suggest": {
-        "ext-apcu": "Needed for ACPu-backed translation cache"
+        "ext-apcu": "Needed for APCu-backed translation cache"
     },
     "autoload": {
         "psr-4": {
